@@ -4,7 +4,7 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 
 ---
 
-## 🧠 Lenguajes de Programación
+## Lenguajes de Programación
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin: 0 10px;"/>
@@ -28,7 +28,7 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 
 ---
 
-## 🧰 DevOps
+##  DevOps
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin: 0 10px;"/>
@@ -38,7 +38,7 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 
 ---
 
-## 🗄️ Bases de Datos
+##  Bases de Datos
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" style="margin: 0 10px;"/>
@@ -48,7 +48,7 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 
 ---
 
-## 🛠️ Otras Herramientas
+##  Otras Herramientas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin: 0 10px;"/>
@@ -63,7 +63,7 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 
 ---
 
-## 📈 Stats
+## Stats
 
 [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagerld-lab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -73,7 +73,7 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 
 ## 🔗 Enlaces
  <!-- cambia esto si tienes uno -->
-- 🧠 [LinkedIn](https://www.linkedin.com/in/luisdagerj/) <!-- cambia esto -->
+-  [LinkedIn](https://www.linkedin.com/in/luisdagerj/) <!-- cambia esto -->
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
