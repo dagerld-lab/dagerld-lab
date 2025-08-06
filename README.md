@@ -20,8 +20,8 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 ## ⚙️ Frameworks y Librerías
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" style="margin: 0 10px;/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin: 0 10px;/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
 </p>
@@ -53,11 +53,10 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="32" height="32" alt="Swagger"/>
-  <img src="https://avatars.githubusercontent.com/u/60137190?s=200&v=4" width="32" height="32" alt="Storybook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" width="32" height="32" alt="Storybook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rabbitmq/rabbitmq-website/main/site/favicon.ico" width="32" height="32" alt="RabbitMQ"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/JUnit_5_Banner.png" width="60" height="30" alt="JUnit"/>
-  <img src="https://avatars.githubusercontent.com/u/10518397?s=200&v=4" width="32" height="32" alt="Mockito"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="32" height="32" alt="RabbitMQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="60" height="30" alt="JUnit"/>
 </p>
 
 
