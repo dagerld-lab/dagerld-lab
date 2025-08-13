@@ -4,7 +4,7 @@ Soy desarrollador web apasionado por las tecnologías modernas, la seguridad inf
 
 ---
 
-## Lenguajes de Programación
+## Lenguajes
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin: 0 10px;"/>
